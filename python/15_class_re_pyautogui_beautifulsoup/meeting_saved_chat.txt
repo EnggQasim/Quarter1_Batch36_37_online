@@ -1,0 +1,238 @@
+09:04:09 From Amir Rashid To Everyone : AOA everyone
+09:04:09 From asghar ibraheem To Everyone : AOA
+09:04:18 From asghar ibraheem To Everyone : wsalam
+09:04:34 From Kabeer Rajput To Everyone : salam
+09:04:38 From asghar ibraheem To Everyone : voice?
+09:04:52 From Humera Naz To Everyone : PIAIC 173431
+09:05:02 From Kabeer Rajput To Everyone : PIAIC133488
+09:05:31 From Amir Rashid To Everyone : PIAIC107890
+09:05:56 From Moeed Masood PIAIC185253 To Everyone : alhamdolillah
+09:05:59 From Shoaib PIAIC-178354 To Everyone : Shoaib PIAIC178354
+09:06:13 From Adnan Ul Haq (PIAIC-103786) To Everyone : Quiz kb hn
+09:06:24 From Adnan Ul Haq (PIAIC-103786) To Everyone : PIAIC103786
+09:06:45 From Salman Nayyer PIAIC180996 To Everyone : Salman Nayyer PIAIC180996
+09:07:07 From Samina Anees To Everyone : PIAIC52499
+09:07:31 From Nasrullah (PIAIC 180162) To Everyone : Nasrullah (PIAIC 180162)
+09:07:53 From Usman Noor PIAIC188401 To Everyone : PIAIC188401
+09:08:24 From Noman Ali PIAIC 180111 To Everyone : PIAIC180111
+09:08:34 From Kainat PIAIC182352 To Everyone : PIAIC182352
+09:09:03 From Muhammad Furqan(PIAIC183270) To Everyone : PIAIC183270
+09:10:35 From Muhammad Usman Manzoor To Everyone : PIAIC119347
+09:10:54 From Usman Noor PIAIC188401 To Everyone : yes
+09:10:55 From Gulshan Ali To Everyone : PIAIC176719
+09:11:11 From asghar ibraheem To Everyone : abhi tehk
+09:11:31 From PIAIC183349 Muahhamd Waseem To Everyone : PIAIC183349
+09:12:22 From PIAIC 175167 To Everyone : PIAIC175167
+09:13:15 From Muhammed.Shahid To Everyone : PIAIC134239
+09:14:23 From Muhammad Adrees To Everyone : PIAIC74182
+09:14:50 From Junaid Ali Bhatti To Everyone : PIAIC174125
+09:16:23 From Bilal Chaudhary176168 To Everyone : 176168
+09:20:01 From PIAIC 132123 To Everyone : PIAIC132123
+09:20:22 From Kashif Khan 143001 To Everyone : PIAIC 143001
+09:21:05 From Amna Liaqat PIAIC 133452 To Everyone : PIAIC133452
+09:21:33 From Gadeer Abbas 2020-ag-7984 To Everyone : PIAIC173570
+09:21:43 From Gadeer Abbas 2020-ag-7984 To Everyone : PIAIC173579
+09:21:50 From PIAIC133985 Muhammad Naveed To Everyone : PIAIC133985 Muhammad Naveed
+09:22:03 From Zeeshan Asim : PIAIC55300 To Everyone : PIAIC55300 Zeeshan Asim
+09:22:44 From Asim Sharif PIAIC 172797 To Everyone : PIAIC 172797
+09:22:57 From Imran Ahmad To Everyone : What is today topic name please, as i have joined late
+09:23:35 From Khushbakht Hassan To Everyone : PIAIC180280
+09:24:19 From ASIF ALI PIAIC 183730 To Everyone : ASIF ALIPIAIC 183730
+09:24:51 From Neelum To Everyone : Neelum Javaid PIAIC172527
+09:25:01 From Zaki | PIAIC172541 To Everyone : PIAIC 172541
+09:27:06 From Imran Ahmad To Everyone : Imran Ahmad PIAIC68597
+09:27:49 From asghar ibraheem To Everyone : re
+09:28:04 From Imran Ahmad To Everyone : What is today topic name please, as i have joined late
+09:28:13 From Muhammad Kashif To Everyone : PIAIC181638
+09:28:20 From asghar ibraheem To Everyone : import re
+09:28:21 From Asim Sharif PIAIC 172797 To Everyone : regular expression
+09:28:40 From Imran Ahmad To Everyone : Thanks Asim Sharif
+09:33:06 From Bilal Chaudhary176168 To Everyone : quater end nhi hogya
+09:34:22 From PIAIC149101 sana To Everyone : PIAIC149101
+09:34:35 From Saeed To Everyone : PIAIC131885
+09:35:36 From M ADNAN SAEED PIAIC 174751 To Everyone : M ADNAN SAEED PIAIC 174751
+09:36:42 From Muhammad Athar To Everyone : PIAIC174016
+09:37:36 From Bilal Chaudhry To Everyone : 176168
+09:38:08 From raashid To Everyone : PIAIC55486
+09:42:55 From Ashraf Makhdoom Syed To Everyone : PIAIC155482
+09:43:07 From wasiq imtiaz To Everyone : PIAIC 17864
+09:43:23 From PIAIC116704 To Everyone : PIAIC116704
+09:43:23 From Irfan Ahmed To Everyone : PIAIC183459
+09:43:26 From wasiq imtiaz To Everyone : PIAIC 170864
+09:47:25 From PIAIC172478 To Everyone : PIAIC172478
+09:48:41 From Hammad Ahmad To Everyone : PIAIC172695
+09:53:52 From asghar ibraheem To Everyone : regular expression bana deta hy
+09:56:48 From (PIAIC-189416) Muhammad Murtaza Khan To Everyone : PIAIC189416
+10:04:09 From asghar ibraheem To Everyone : Sir javascript main bhi re ka concept same hy
+10:04:27 From asghar ibraheem To Everyone : Sir javascript main bhi re ka concept same hy
+10:05:35 From Abdullah Arif 129260 To Everyone : PIAIC129260
+10:05:55 From ABDULBASIT 59115 To Everyone : PIAIC59115
+10:10:58 From PIAIC 132123 To Everyone : PIAIC132123
+10:11:58 From Irfan Ahmed To Everyone : PIAIC183459
+10:15:22 From Abdul Saboor Zaman To Everyone : PIAIC189261
+10:16:13 From M. Noman Farooq To Everyone : BCC001845
+10:18:33 From Muhammad Sadullah - PIAIC178950 To Everyone : PIAIC178950
+10:21:30 From asghar ibraheem To Everyone : abhi tehk hy
+10:28:20 From Hassan Ahmed - PIAIC 180140 To Everyone : Hassan Ahmed PIAIC -180140
+10:29:16 From Farhan-PIAIC186218 To Everyone : PIAIC186218
+10:29:25 From ALI ISMAIL HUSSAIN To Everyone : IOT048687
+10:29:35 From asghar ibraheem To Everyone : age 115 false lag raha hy
+10:29:45 From Ali Raza To Everyone : PIAIC62922
+10:30:45 From Abdul Saboor Zaman To Everyone : PIAIC189261
+10:33:06 From Haseeb Iqbal -PIAIC 180144 To Everyone : Haseeb Iqbal PIAIC-180144
+10:35:44 From LENOVO To Everyone : PIAIC151960
+10:39:37 From Kamran Chughtai To Everyone : PIAIC107869
+10:41:53 From Irfan Ahmed - (PIAIC178547) To Everyone : A regular expression followed by an asterisk (*) matches zero or more occurrences of the regular expression. If there is any choice, the first matching string in a line is used.A regular expression followed by a plus sign (+) matches one or more occurrences of the one-character regular expression. If there is any choice, the first matching string in a line is used.A regular expression followed by a question mark (?) matches zero or one occurrence of the one-character regular expression.
+10:41:58 From PIAIC133985 Muhammad Naveed To Everyone : PIAIC133985 Muhammad Naveed
+10:42:15 From Hifza Ansari To Everyone : w q use kia h?
+10:42:20 From asghar ibraheem To Everyone : ubl
+10:42:32 From Irfan Ahmed - (PIAIC178547) To Everyone : \w = words only
+10:43:00 From Irfan Ahmed - (PIAIC178547) To Everyone : \d = digits only
+10:43:04 From Hifza Ansari To Everyone : and with w+
+10:43:35 From Irfan Ahmed - (PIAIC178547) To Everyone : \w+ = word matching 1 and more characters
+10:44:11 From Hifza Ansari To Everyone : ✅
+10:45:20 From Fazal Abbas PIAIC182763 To Everyone : ✅
+10:45:48 From PIAIC172478 To Everyone : PIAIC172478
+10:47:16 From asghar ibraheem To Everyone : Best hogya
+10:48:18 From Zaki | PIAIC172541 To Everyone : PIAIC172541
+10:50:51 From Afnan 182978 To Everyone : PIAIC 182978
+10:50:57 From Afnan 182978 To Everyone : PIAIC 182978
+10:51:35 From Ali Raza To Everyone : PIAIC62922
+10:53:20 From Kamran Chughtai To Everyone : PIAIC107869
+10:53:25 From PIAIC172478 To Everyone : PIAIC172478
+10:53:25 From Dr. Engr. Bhagwan Das To Everyone : PIAIC96879
+10:53:26 From Adnan Ul Haq (PIAIC-103786) To Everyone : PIAIC103786
+10:53:26 From Hammad Ahmad To Everyone : PIAIC172695
+10:53:27 From Assad Mahmood (PIAIC179144) To Everyone : PIAIC179144
+10:53:27 From SafeerAhmad_139339 To Everyone : PIAIC139339
+10:53:28 From Muhammad Usman Manzoor To Everyone : PIAIC119347
+10:53:28 From Kabeer Rajput To Everyone : PIAIC133488
+10:53:28 From Amna Liaqat PIAIC 133452 To Everyone : PIAIC133452
+10:53:29 From Noman Ali PIAIC 180111 To Everyone : PIAIC180111
+10:53:29 From PIAIC 175167 To Everyone : PIAIC175167
+10:53:29 From Amir Rashid To Everyone : PIAIC107890
+10:53:30 From Assad Mahmood (PIAIC179144) To Everyone : PIAIC179144
+10:53:30 From Ali Raza To Everyone : PIAIC62922
+10:53:31 From asghar ibraheem To Everyone : CNC012105
+10:53:31 From Muhammad Adrees To Everyone : PIAIC74182
+10:53:31 From PIAIC149101 sana To Everyone : PIAIC149101
+10:53:31 From M.Ahmad Ayaz To Everyone : PIAIC175646
+10:53:32 From Asim sharif(PIAIC172797) To Everyone : PIAIC172797
+10:53:32 From raashid To Everyone : piaic55486
+10:53:32 From Dr. Engr. Bhagwan Das To Everyone : PIAIC96879
+10:53:32 From Syed Amir PIAIC128409 To Everyone : PIAIC128409
+10:53:32 From Shoaib Ahmed Khan To Everyone : PIAIC159833
+10:53:33 From Muhammed.Shahid To Everyone : PIAIC134239
+10:53:33 From Salman Nayyer PIAIC180996 To Everyone : PIAIC180996
+10:53:33 From Saeed To Everyone : PIAIC131885
+10:53:34 From Muhammad Athar To Everyone : PIAIC174016
+10:53:35 From Kainat PIAIC182352 To Everyone : PIAIC182352
+10:53:35 From Afnan 182978 To Everyone : PIAIC182978
+10:53:36 From PIAIC188523 - SUBHAN AHMED To Everyone : PIAIC188523
+10:53:37 From Muhammad Sadullah - PIAIC178950 To Everyone : PIAIC178950
+10:53:37 From HuzaifaTahir PIAIC-60925 To Everyone : PIAIC60925
+10:53:37 From Homesaira mehmood To Everyone : PIAIC176439
+10:53:38 From Taqwa Khaliq To Everyone : PIAIC173701
+10:53:38 From M ADNAN SAEED PIAIC 174751 To Everyone : 174751
+10:53:38 From Muhammad Uzair-177637 To Everyone : PIAIC177637
+10:53:38 From Zeeshan Asim : PIAIC55300 To Everyone : PIAIC55300
+10:53:40 From Salma Asif To Everyone : PIAIC176945
+10:53:41 From (PIAIC-189416) Muhammad Murtaza Khan To Everyone : PIAIC189416
+10:53:41 From Usman Noor PIAIC188401 To Everyone : PIAIC188401
+10:53:41 From Noman Ali PIAIC 180111 To Everyone : PIAIC180111
+10:53:42 From LENOVO To Everyone : PIAIC151960
+10:53:42 From Irfan Ahmed - (PIAIC178547) To Everyone : PIAIC178547
+10:53:44 From fozia-shareen-piaic-165097 To Everyone : PIAIC165097
+10:53:44 From Hammad Ahmad To Everyone : PIAIC172695
+10:53:44 From Kabeer Rajput To Everyone : PIAIC133488
+10:53:44 From Muneeb(PIAIC173219) To Everyone : PIAIC173219
+10:53:44 From Shoaib PIAIC-178354 To Everyone : PIAIC178354
+10:53:44 From PIAIC188523 - SUBHAN AHMED To Everyone : PIAIC188523
+10:53:45 From Gadeer Abbas 2020-ag-7984 To Everyone : PIAIC173579
+10:53:45 From SHEHZAD PIAIC180057 To Everyone : PIAIC180057
+10:53:45 From Sehrish To Everyone : PIAIC174229
+10:53:46 From Muhammad Sadullah - PIAIC178950 To Everyone : PIAIC178950
+10:53:46 From Syed Jawad [PIAIC185558] To Everyone : PIAIC185558
+10:53:46 From Afrooz Alam (PIAIC89531) To Everyone : PIAIC89531 Afrooz Alam
+10:53:47 From 99685 To Everyone :        PIAIC 99685           
+10:53:48 From Muhammad Sheraz-PIAIC68522 To Everyone : PIAIC68522
+10:53:49 From Zeenat Zakir: Piaic 133802 To Everyone : PIAIC133802
+10:53:49 From Maah Noor PIAIC168751 To Everyone : PIAIC168751
+10:53:49 From Zaki | PIAIC172541 To Everyone : PIAIC172541
+10:53:50 From Maha Ilyas 2874 To Everyone : PIAIC177982
+10:53:50 From PIAIC183349 Muahhamd Waseem To Everyone : PIAIC183349
+10:53:50 From Usman Noor PIAIC188401 To Everyone : PIAIC188401
+10:53:50 From raashid To Everyone : PIAIC55486
+10:53:51 From PIAIC175636 - M. Ziad Khan To Everyone : 175868
+10:53:51 From Hassan Ahmed - PIAIC 180140 To Everyone : PIAIC180144
+10:53:51 From Irfan Ahmed To Everyone : 183459
+10:53:51 From Muhammad Sheraz-PIAIC68522 To Everyone : PIAIC68522
+10:53:51 From Hifza Ansari To Everyone : PIAIC177625
+10:53:52 From Fazal Abbas PIAIC182763 To Everyone : PIAIC182763
+10:53:52 From M ADNAN SAEED PIAIC 174751 To Everyone : PIAIC174751
+10:53:52 From Haider Ali-PIAIC179345 To Everyone : PIAIC179345
+10:53:52 From Agha ALi PIAIC164763 To Everyone : PIAIC164763
+10:53:52 From Nasrullah (PIAIC 180162) To Everyone : PIAIC 180162
+10:53:53 From Muhammad Athar To Everyone : PIAIC174016
+10:53:53 From Uzair Ullah To Everyone : PIAIC169405
+10:53:54 From Gulshan Ali To Everyone : PIAIC176719
+10:53:54 From ASIF ALI PIAIC 183730 To Everyone : piaic 183730
+10:53:55 From ABDULBASIT 59115 To Everyone : PIAIC59115
+10:53:55 From Muhammad Sheraz-PIAIC68522 To Everyone : PIAIC68522
+10:53:56 From Khushbakht Hassan To Everyone : PIAIC180280
+10:53:56 From PIAIC183349 Muahhamd Waseem To Everyone : PIAIC183349
+10:53:56 From Samsung SM-A325F To Everyone : PIAIC178248
+10:53:58 From Kabeer Alam (132619) To Everyone : PIAIC132619
+10:53:59 From syed ibad ur rehman To Everyone : PIAIC166678
+10:53:59 From Saad Aslam To Everyone : PIAIC187831
+10:53:59 From Samina Anees To Everyone : PIAIC52499
+10:54:00 From اسامه سلفى To Everyone : PIAIC91925
+10:54:01 From Neelum To Everyone : PIAIC 172527
+10:54:01 From Mashal Zahra To Everyone : PIAIC178751
+10:54:02 From Muhammad Sheraz-PIAIC68522 To Everyone : PIAIC68522
+10:54:03 From Syed PIAIC168703 To Everyone : PIAIC168703
+10:54:04 From Muhammad Ashraf To Everyone : PIAIC179123
+10:54:05 From Irfan Ahmed To Everyone : PIAIC183459
+10:54:06 From Agha ALi PIAIC164763 To Everyone : PIAIC164763
+10:54:07 From Muhammad Sheraz-PIAIC68522 To Everyone : PIAIC68522
+10:54:08 From Zia (PIAIC125141) To Everyone : PIAIC125141
+10:54:10 From Hamza To Everyone : PIAIC173652
+10:54:10 From Yousaf-173795 To Everyone : PIAIC173795
+10:54:12 From 99685 To Everyone : PIAIC99685
+10:54:14 From Akbar Ali To Everyone : PIAIC168636
+10:54:14 From Assad Mahmood (PIAIC179144) To Everyone : PIAIC179144
+10:54:15 From khurshed To Everyone : PIAIC157450
+10:54:15 From Hammad Ahmad To Everyone : PIAIC172695
+10:54:17 From Naeem To Everyone : PIAIC116704
+10:54:17 From PIAIC175636 - M. Ziad Khan To Everyone : PIAIC175656
+10:54:22 From Owais Khattak To Everyone : Name: MUHAMMAD OWAISRoll No: PIAIC139392
+10:54:23 From Irfan Ahmed To Everyone : PIAIC183459
+10:54:28 From sohaib 67260 To Everyone : PIAIC67260
+10:54:31 From Owais Khattak To Everyone : Name: MUHAMMAD OWAISRoll No: PIAIC139392
+10:54:36 From Haseeb Iqbal -PIAIC 180144 To Everyone : PIAIC180140
+10:54:37 From Nadeem Hussain To Everyone : PIAIC-182905
+10:54:44 From Irfan Ahmed To Everyone : PIAIC183459 Irfan Ahmed
+10:54:49 From Zeeshan Latif To Everyone : PIAIC171445
+10:54:54 From Irtiza Khan [PIAIC 171375] To Everyone : PIAIC171375
+10:54:58 From cz 3 To Everyone : PIAIC 125164
+10:55:07 From Humera Naz To Everyone : piaic173431
+10:55:09 From Neelum To Everyone : PIAIC172527
+10:55:15 From ALI ISMAIL HUSSAIN To Everyone : IOT048687
+10:55:17 From PIAIC175636 - M. Ziad Khan To Everyone : PIAIC175636
+10:55:26 From Mashal Zahra To Everyone : PIAIC178751
+10:55:29 From Ali Raza To Everyone : PIAIC62922
+10:55:33 From Muhammad Furqan(PIAIC183270) To Everyone : PIAIC183270
+10:55:35 From Moeed Masood PIAIC185253 To Everyone : PIAIC185253
+10:55:35 From GSTAR GROUP To Everyone : PIAIC172332
+10:55:39 From Imran Ahmed To Everyone : Imran Ahmed_PIAIC95846
+10:55:42 From Abdul rafiu To Everyone : PIAIC164489
+10:55:42 From Noman Saleem khan PIAIC-131844 To Everyone : 18344
+10:55:47 From Muhammad Shahid To Everyone : PIAIC005259
+10:55:49 From Noman Saleem khan PIAIC-131844 To Everyone : 13844
+10:55:51 From LENOVO To Everyone : PIAIC151960
+10:55:56 From ASIF ALI PIAIC 183730 To Everyone : ASIF ALI PIAIC 183730
+10:56:08 From Umer Ghaffar PIAIC184298 To Everyone : PIAIC184298
+10:56:09 From 892 3733 2777 To Everyone : PIAIC173188
+10:56:11 From Muhammad Kashif To Everyone : PIAIC181638
+10:56:13 From Irfan Ahmed To Everyone : PIAIC183459 Irfan Ahmed
+10:56:14 From PIAIC172478 To Everyone : PIAIC172478
